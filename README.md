@@ -23,8 +23,6 @@ Contributions to this repository are welcome! If you'd like to contribute, follo
 6. Create a pull request (PR) from your fork's branch to the main repository's `main` branch.
 8. Provide a descriptive title and detailed description for your PR.
 
-## Contact
 
-If you have any questions or suggestions about the solutions, feel free to open an issue in this repository or contact me via email at example@email.com.
 
 Happy coding!
